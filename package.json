@@ -2,5 +2,26 @@
   "dependencies": {
     "crypto-js": "^4.1.1",
     "elliptic": "^6.5.4"
-  }
+  },
+  "name": "bcoin",
+  "version": "1.0.0",
+  "description": "bcockchain",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarhanAbid/B_Coin.git"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "Farhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarhanAbid/B_Coin/issues"
+  },
+  "homepage": "https://github.com/FarhanAbid/B_Coin#readme"
 }
